@@ -1,7 +1,7 @@
 <br>
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=17&duration=1&pause=99999&color=D7526F&center=true&vCenter=true&repeat=false&width=600&height=30&lines='Quê+que+há+velhinho?🐰🥕'" alt="TypingMain-SVG" title="Hello fellow visitor!"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=17&duration=1&pause=99999&color=D7526F&center=true&vCenter=true&repeat=false&width=600&height=30&lines='Quê+que+há+velhinho?🐰🥕'" alt="TypingMain-SVG" title="Oi oii visitante!"/>
   </a>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=3000&pause=1000&color=D7526F&center=true&vCenter=true&width=1000&height=70&lines=Eu+sou+a+Geise!!;De+Rond%C3%B4nia%2C+Brasil;E+uma+futura+'garota+de+programa👩‍💻'" alt="TypingSub-SVG" title="Welcome, welcome! :)"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=3000&pause=1000&color=D7526F&center=true&vCenter=true&width=1000&height=70&lines=Eu+sou+a+Geise!!;De+Rond%C3%B4nia%2C+Brasil;E+uma+futura+'garota+de+programa👩‍💻'" alt="TypingSub-SVG" title="Bem vindo(a)! :)"/>
   </a>
 </div>
 
@@ -32,9 +32,11 @@ Aqui estão os meus contatos:
 
 ## 🚀 Minhas Skills
 
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VSCode"/></code> &nbsp;
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" alt="VisualStudio"/></code> &nbsp;
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="CSharp"/></code>
+<code><img title="VSCode" alt="VSCode" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/></code> &nbsp;
+<code><img title="VisualStudio" alt="VisualStudio" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"/></code> &nbsp;
+<code><img title="CSharp" alt="CSharp" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/></code>
+
+<br>
 
 <div align="center">
   <a href="https://github.com/geisisilva">
