@@ -13,13 +13,13 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=3000&pause=1000&color=D7526F&center=true&vCenter=true&width=1000&height=70&lines=Eu+sou+a+Geise!!;De+Rond%C3%B4nia%2C+Brasil;E+uma+futura+'garota+de+programa👩‍💻'" alt="TypingSub-SVG" title="Bem vindo(a)! :)"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=3000&pause=1000&color=D7526F&center=true&vCenter=true&width=1000&height=70&lines=Eu+sou+a+Gi!!;De+Rond%C3%B4nia%2C+Brasil;E+uma+futura+'garota+de+programa👩‍💻'" alt="TypingSub-SVG" title="Bem vindo(a)! :)"/>
   </a>
 </div>
 
 <div align="left">
 
-## Olá, meu nome é Geisilane (mais conhecida como ✨gi/Ane✨)!
+## Olá, meu nome é Geisilane (mais conhecida como ✨Gi/Ane✨)!
 
 Atualmente, tenho 15 anos e sou uma estudante do ensino médio + técnico em Informática no **IFRO (Instituto Federal de Educação, Ciência e Tecnologia de Rondônia) | Campus Ji-Paraná**.
 
