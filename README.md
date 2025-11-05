@@ -21,7 +21,7 @@
 
 ## Olá, meu nome é Geisilane (mais conhecida como ✨Gi/Ane✨)!
 
-Atualmente, tenho 15 anos e sou uma estudante do ensino médio + técnico em Informática no **IFRO (Instituto Federal de Educação, Ciência e Tecnologia de Rondônia) | Campus Ji-Paraná**.
+Atualmente, tenho 16 anos e sou uma estudante do ensino médio + técnico em Informática no **IFRO (Instituto Federal de Educação, Ciência e Tecnologia de Rondônia) | Campus Ji-Paraná**.
 
 Aqui estão os meus contatos:
 
